@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://esovoani.github.io/OBW/sitemap_index.txt
+Sitemap: https://esovoani.github.io/dFy/sitemap_index.txt
+Sitemap: https://esovoani.github.io/rWO/sitemap_index.txt
+Sitemap: https://esovoani.github.io/tdj/sitemap_index.txt
